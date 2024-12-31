@@ -36,7 +36,7 @@ JOIN_REQUEST_ENABLE = os.environ.get("JOIN_REQUEST_ENABLED", None)
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #start message
-START_PIC = os.environ.get("START_PIC","https://telegra.ph/file/b18fde890d964102a45ae38786e3afcb.jpg")
+START_PIC = os.environ.get("START_PIC","https://www.imghippo.com/i/rNu5704kiQ.jpg")
 START_MSG = os.environ.get("START_MESSAGE", "Hello {first}\n\nI Am 𝗛𝗞 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟™ 😊store bot You will get here Study Material by links🔗 which will be provided in channels✅⭐️.")
 try:
     ADMINS=[]
